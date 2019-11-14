@@ -14,7 +14,8 @@ looking for study contents
 
 ## 데이터 전처리
 1. [결측치(NaN) 처리하기](https://blog.naver.com/tjdudwo93/220976082118)
-  - 위와 관련 자료[링크](https://eda-ai-lab.tistory.com/14)
+  - 위와 관련 자료[링크](https://eda-ai-lab.tistory.com/14)   
+  
 2. 
 
 
