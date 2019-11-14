@@ -14,22 +14,23 @@ looking for study contents
 
 
 ## 데이터 전처리
-1. [결측치(NaN) 처리하기](https://blog.naver.com/tjdudwo93/220976082118)
-    - 위와 관련 자료  [링크](https://eda-ai-lab.tistory.com/14)   
+1. [결측치(NaN) 처리하기](https://blog.naver.com/tjdudwo93/220976082118)   
+    - 위의 글을 참고해서 만든 것 >> [링크](https://eda-ai-lab.tistory.com/14)   
   
 2. 
 
 ## 머신러닝
 1. 기초/전반
-    - [안수빈님 블로그](https://subinium.github.io/machinelearning/)
-
+    - [안수빈님 블로그](https://subinium.github.io/machinelearning/)   
+   
 1. 앙상블
     - [KAGGLE ENSEMBLING GUIDE_영문..](https://mlwave.com/kaggle-ensembling-guide/)
 
 
 ## 통계
 1. 선형대수
-    - [이상화 교수의 선형대수](http://www.kocw.net/home/search/kemView.do?kemId=977757)
+    - [이상화 교수의 선형대수](http://www.kocw.net/home/search/kemView.do?kemId=977757)   
+    
 1. 주성분분석
     - [주성분분석(Principal Component Analysis)](https://ratsgo.github.io/machine%20learning/2017/04/24/PCA/)
     
