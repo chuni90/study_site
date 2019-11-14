@@ -14,10 +14,16 @@ looking for study contents
 
 ## 데이터 전처리
 1. [결측치(NaN) 처리하기](https://blog.naver.com/tjdudwo93/220976082118)
-  - 위와 관련 자료[링크](https://eda-ai-lab.tistory.com/14)   
+    - 위와 관련 자료[링크](https://eda-ai-lab.tistory.com/14)   
   
 2. 
+
+## 머신러닝
+1. 앙상블
+    - [KAGGLE ENSEMBLING GUIDE](https://mlwave.com/kaggle-ensembling-guide/)
 
 
 ## 좋은 블로그/사이트
 1. [분석하는 문과생](https://sacko.tistory.com/50?category=647946)
+1. [InsightOut]https://homeproject.tistory.com/category/Data%20Science/Deep%20Learning
+1. 위키docs [Python 분석 실무](https://wikidocs.net/20967)
