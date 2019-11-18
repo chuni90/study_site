@@ -41,6 +41,7 @@ looking for study contents
 1. [InsightOut](https://homeproject.tistory.com/category/Data%20Science/Deep%20Learning)
 1. 위키docs [Python 분석 실무](https://wikidocs.net/20967)
     - [관련 파일 repository](https://github.com/chuni90/python_analysis_book)
+1. 위키docs [Must Learning with R ](https://wikidocs.net/33920)    
 1. [Pandas Memory 다이어트](https://drive.google.com/file/d/12faqaslFIF-Sg_sU3jeGyauW5ClRqS8D/view)
 
 ## Seaborn
