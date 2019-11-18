@@ -17,7 +17,7 @@ looking for study contents
 1. [결측치(NaN) 처리하기](https://blog.naver.com/tjdudwo93/220976082118)   
     - 위의 글을 다른 유저가 재가공한 것 >> [링크](https://eda-ai-lab.tistory.com/14)   
   
-2. 
+2. [[Python] 어떤 스케일러를 쓸 것인가?](https://mkjjo.github.io/python/2019/01/10/scaler.html)
 
 ## 머신러닝
 1. 기초/전반
