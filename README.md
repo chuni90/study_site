@@ -21,7 +21,8 @@ looking for study contents
 
 ## 머신러닝
 1. 기초/전반
-    - [안수빈님 블로그](https://subinium.github.io/machinelearning/)   
+    - [안수빈님 블로그](https://subinium.github.io/machinelearning/) 
+    - [?? 모르겠음](https://jfun.tistory.com/64?category=836744)
    
 1. 앙상블
     - [KAGGLE ENSEMBLING GUIDE_영문..](https://mlwave.com/kaggle-ensembling-guide/)
@@ -41,7 +42,6 @@ looking for study contents
 1. 위키docs [Python 분석 실무](https://wikidocs.net/20967)
     - [관련 파일 repository](https://github.com/chuni90/python_analysis_book)
 1. [Pandas Memory 다이어트](https://drive.google.com/file/d/12faqaslFIF-Sg_sU3jeGyauW5ClRqS8D/view)
-
 
 ## Seaborn
 1. [How to Perform Exploratory Data Analysis with Seaborn](https://towardsdatascience.com/how-to-perform-exploratory-data-analysis-with-seaborn-97e3413e841d)
