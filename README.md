@@ -37,6 +37,8 @@ looking for study contents
 1. 주성분분석
     - [주성분분석(Principal Component Analysis)](https://ratsgo.github.io/machine%20learning/2017/04/24/PCA/)
     
+1. [머신러닝을 위한 통계](https://brunch.co.kr/@sungho/8)
+    
 
 ## 좋은 블로그/사이트
 1. [분석하는 문과생](https://sacko.tistory.com/50?category=647946)
