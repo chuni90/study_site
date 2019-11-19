@@ -19,6 +19,8 @@ looking for study contents
   
 2. [[Python] 어떤 스케일러를 쓸 것인가?](https://mkjjo.github.io/python/2019/01/10/scaler.html)
 
+3. [How to Handle Missing Data with Python](https://machinelearningmastery.com/handle-missing-data-python/)
+
 ## 머신러닝
 1. 기초/전반
     - [안수빈님 블로그](https://subinium.github.io/machinelearning/) 
