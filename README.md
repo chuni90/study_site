@@ -47,6 +47,9 @@ looking for study contents
     - [관련 파일 repository](https://github.com/chuni90/python_analysis_book)
 1. 위키docs [Must Learning with R ](https://wikidocs.net/33920)    
 1. [Pandas Memory 다이어트](https://drive.google.com/file/d/12faqaslFIF-Sg_sU3jeGyauW5ClRqS8D/view)
+1. [ratsgo'blog](https://ratsgo.github.io/machine%20learning/2017/04/16/clustering/)
+1. [상혁 천_고급통계;;](https://sanghyukchun.github.io/home/)
+1. [전반적인 강의느낌?](http://norman3.github.io/prml/docs/chapter03/0)
 
 ## Seaborn
 1. [How to Perform Exploratory Data Analysis with Seaborn](https://towardsdatascience.com/how-to-perform-exploratory-data-analysis-with-seaborn-97e3413e841d)
