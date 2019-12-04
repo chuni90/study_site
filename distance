@@ -1,0 +1,32 @@
+## 거리 계산식
+
+def haversine(lat1, lon1, lat2, lon2):
+    import math
+    miles_constant = 3959
+    lat1, lon1, lat2, lon2 = map(np.deg2rad, [lat1, lon1, lat2, lon2])
+    dlat = lat2 - lat1 
+    dlon = lon2 - lon1 
+    a = np.sin(dlat/2)**2 + np.cos(lat1) * np.cos(lat2) * np.sin(dlon/2)**2
+    c = 2 * np.arcsin(np.sqrt(a)) 
+    mi = miles_constant * c
+    return mi * 1.609344 # 1mile을 1km로 변환
+    
+# 주차장과 각 정류소별 거리 측정
+a = train3['latitude'].values.reshape(-1,1)
+b = train3['longitude'].values.reshape(-1,1)
+c = parking_location['lan'].values.reshape(1,-1)
+d = parking_location['lon'].values.reshape(1,-1)
+e = haversine(a,b,c,d)
+
+# 계산된 거리(=e)를 distance라는 DF에 삽입
+distance = pd.DataFrame(e)
+
+count = []
+sum_count = 0
+
+for i in range(e.shape[0]) :
+    sum_count = np.sum(e[i] <= 1)
+    count.append(sum_count)
+    
+print(len(count))
+distance['parking_in_1km'] = count
