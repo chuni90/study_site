@@ -31,7 +31,7 @@ looking for study contents
 
 1. 파라미터 튜닝
     - [하이퍼 파라미터 최적화 : 자동화 알고리즘 설명](https://dkopczyk.quantee.co.uk/hyperparameter-optimization/)
-    - 위 링크의 github[](https://github.com/dawidkopczyk/blog/blob/master/hyperparam.py)
+    - [위 링크의 github](https://github.com/dawidkopczyk/blog/blob/master/hyperparam.py)
 
 ## 통계
 1. 선형대수
