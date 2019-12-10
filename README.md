@@ -8,7 +8,7 @@ looking for study contents
 1. [대화체와 합이 잘 맞는 Tokenizer를 찾아보자! - Dialog-BERT 만들기 2편](https://blog.pingpong.us/tokenizer/)
 1. [Standford 교육 : Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 1. [pre-trained 8 model](https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/)
-
+1. [이미지/케라스 | 학습된 모델을 새로운 프로젝트에 적용하기](https://jeinalog.tistory.com/13)
 
 ## 데이터 핸들링
 1. [7 Steps to Mastering Data Preparation with Python](https://www.kdnuggets.com/2017/06/7-steps-mastering-data-preparation-python.html?fbclid=IwAR2ZUMDdonXVFQ29nI5d208WsgtWIkvY7wPnNT6V4CnDegty8J-eLP4XBnI)
@@ -33,6 +33,9 @@ looking for study contents
 1. 파라미터 튜닝
     - [하이퍼 파라미터 최적화 : 자동화 알고리즘 설명](https://dkopczyk.quantee.co.uk/hyperparameter-optimization/)
     - [위 링크의 github](https://github.com/dawidkopczyk/blog/blob/master/hyperparam.py)
+
+## 딥러닝
+1. [코드, 수학, 토론이 함께하는 대화형 딥러닝 학습서](http://ko.d2l.ai/)
 
 ## 통계
 1. 선형대수
