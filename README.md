@@ -9,6 +9,8 @@ looking for study contents
 1. [Standford 교육 : Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 1. [pre-trained 8 model](https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/)
 1. [이미지/케라스 | 학습된 모델을 새로운 프로젝트에 적용하기](https://jeinalog.tistory.com/13)
+1. [Kaggle: Classification with MultinomialNB, LSTM, CNN (99%)](https://www.kaggle.com/anjanatiha/classification-with-multinomialnb-lstm-cnn-99)
+1. [Kaggle: Spam/ham detection using Naive bayes Classifier](https://www.kaggle.com/dilip990/spam-ham-detection-using-naive-bayes-classifier)
 
 ## 데이터 핸들링
 1. [7 Steps to Mastering Data Preparation with Python](https://www.kdnuggets.com/2017/06/7-steps-mastering-data-preparation-python.html?fbclid=IwAR2ZUMDdonXVFQ29nI5d208WsgtWIkvY7wPnNT6V4CnDegty8J-eLP4XBnI)
