@@ -24,6 +24,8 @@ looking for study contents
 
 3. [How to Handle Missing Data with Python](https://machinelearningmastery.com/handle-missing-data-python/)
 
+1. [Feature Engineering 관련](http://hero4earth.com/blog/learning/2018/01/29/Feature_Engineering_Basic/)
+
 ## 머신러닝
 1. 기초/전반
     - [안수빈님 블로그](https://subinium.github.io/machinelearning/) 
