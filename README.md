@@ -38,8 +38,10 @@ looking for study contents
     - [하이퍼 파라미터 최적화 : 자동화 알고리즘 설명](https://dkopczyk.quantee.co.uk/hyperparameter-optimization/)
     - [위 링크의 github](https://github.com/dawidkopczyk/blog/blob/master/hyperparam.py)
 
+
 ## 딥러닝
 1. [코드, 수학, 토론이 함께하는 대화형 딥러닝 학습서](http://ko.d2l.ai/)
+
 
 ## 통계
 1. 선형대수
@@ -49,6 +51,14 @@ looking for study contents
     - [주성분분석(Principal Component Analysis)](https://ratsgo.github.io/machine%20learning/2017/04/24/PCA/)
     
 1. [머신러닝을 위한 통계](https://brunch.co.kr/@sungho/8)
+
+1. 선형회귀 관련 권철민 교수 답변
+    - 선형 회귀는 정확하게는 타깃값이 정규 분포를 따르는게 아니라, 잔차가 정규 분포를 따른다는 가정하에 만들어진 모델 입니다.   
+    - 일반적으로 skew된 타깃값을  log 변환하면 이런  이슈들을 전반적으로 개선하기 쉽기 때문에 적용합니다.
+    - [추천 글1](https://socialinnovation.tistory.com/145)
+    - [글2](https://walkingwithus.tistory.com/606)
+    - [data science school 코드](https://datascienceschool.net/view-notebook/2787ec5d30664dea850fe0a940e5c1e4/)
+ 
     
 
 ## 좋은 블로그/사이트
