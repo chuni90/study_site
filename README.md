@@ -41,6 +41,37 @@ looking for study contents
 
 ## 딥러닝
 1. [코드, 수학, 토론이 함께하는 대화형 딥러닝 학습서](http://ko.d2l.ai/)
+1 . [무료 강좌 - 섬머스쿨]
+머신러닝 1시간으로 입문하기 (Terry)  https://goo.gl/FoPe2c
+Deep Learning & Reinforcement Learning Summer School
+(2017)  https://goo.gl/4WthXN 
+(2018)  https://goo.gl/Z7stFe
+Machine Learning Summer School (MPI) https://goo.gl/5hQtA1
+
+[무료 강좌 - 한학기 강좌]
+DeepLearning.ai (Andrew Ng)  https://goo.gl/mMr4AW
+CS231n (Stanford)  https://goo.gl/WTLZkg
+CS224d (Stanford)  https://goo.gl/nmY6Ws
+Fast.ai (Fast.ai)  https://goo.gl/aBkesx
+
+[무료 강좌 - 강화학습]
+Deep RL bootcamp (UC Berkeley)  https://goo.gl/i6CbtR
+UCL lectures (DeepMind)  https://goo.gl/gF7EoY
+CS294 (UC Berkeley)  https://goo.gl/d17a5x
+
+[무료 강좌 - 한글]
+모두의 딥러닝 (김성훈)  https://goo.gl/zP6cYS
+모두의 강화학습 (김성훈)  https://goo.gl/XQiB9f
+자연어 처리 (조경현)  https://goo.gl/h8q6Kw
+딥러닝 논문들 (최성준)  https://goo.gl/7f2YyN
+머신러닝 & 파이썬 (최성철, 유료)  https://goo.gl/gy3U2y
+
+[무료 책]
+"Pattern Recognition and Machine Learning"  https://goo.gl/EMbNKm
+"The Element of Statistical Learning"  https://goo.gl/Y8GqqG
+"Gaussian Process for Machine Learning"  https://goo.gl/4LU3Df
+"Dive into Deep Learning"  https://goo.gl/Bk5wF5
+"Deep Learning"  https://goo.gl/4kVPrm
 
 
 ## 통계
