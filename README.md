@@ -6,11 +6,13 @@ looking for study contents
 1. [Top 3 NLP Libraries Tutorial( NLTK+spaCy+Gensim)](https://www.kaggle.com/mjbahmani/top-3-nlp-libraries-tutorial-nltk-spacy-gensim)
 1. [카톡 데이터는 어떻게 정제할 수 있을까? - Dialog-BERT 만들기 1편](https://blog.pingpong.us/dialog-bert-1/)
 1. [대화체와 합이 잘 맞는 Tokenizer를 찾아보자! - Dialog-BERT 만들기 2편](https://blog.pingpong.us/tokenizer/)
+1. [bert 관련 한국어 정리](http://docs.likejazz.com/bert/#fn:fn-7)
 1. [Standford 교육 : Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 1. [pre-trained 8 model](https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/)
 1. [이미지/케라스 | 학습된 모델을 새로운 프로젝트에 적용하기](https://jeinalog.tistory.com/13)
 1. [Kaggle: Classification with MultinomialNB, LSTM, CNN (99%)](https://www.kaggle.com/anjanatiha/classification-with-multinomialnb-lstm-cnn-99)
 1. [Kaggle: Spam/ham detection using Naive bayes Classifier](https://www.kaggle.com/dilip990/spam-ham-detection-using-naive-bayes-classifier)
+
 
 ## 데이터 핸들링
 1. [7 Steps to Mastering Data Preparation with Python](https://www.kdnuggets.com/2017/06/7-steps-mastering-data-preparation-python.html?fbclid=IwAR2ZUMDdonXVFQ29nI5d208WsgtWIkvY7wPnNT6V4CnDegty8J-eLP4XBnI)
@@ -102,6 +104,7 @@ CS294 (UC Berkeley)  https://goo.gl/d17a5x
 1. [ratsgo'blog](https://ratsgo.github.io/machine%20learning/2017/04/16/clustering/)
 1. [상혁 천_고급통계;;](https://sanghyukchun.github.io/home/)
 1. [전반적인 강의느낌?](http://norman3.github.io/prml/docs/chapter03/0)
+1. [이분도 정처없이 정리하는 느낌이나 좋은 컨텐츠가 중간에 있음](https://lovablebaby1015.wordpress.com/category/1-%EA%B3%B5%EB%B6%80/)
 
 ## Seaborn
 1. [How to Perform Exploratory Data Analysis with Seaborn](https://towardsdatascience.com/how-to-perform-exploratory-data-analysis-with-seaborn-97e3413e841d)
